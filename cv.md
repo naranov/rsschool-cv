@@ -1,5 +1,5 @@
 1. Naranov Savr
-2. 89996930883 naranov94@gamil.com
+2. 89996930883 naranov94@gamil.com naranov94@mail.ru
 3. learn java script
 4. HTML, CSS, MATHCAD, MATLAB, PASCAL, HFSS, PYTHON
 5. print ("hello, world")
